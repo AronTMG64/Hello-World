@@ -1,0 +1,1 @@
+document.body.innerHTML = JSON.stringify({title: 'Hello World!'});
